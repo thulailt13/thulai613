@@ -1,0 +1,54 @@
+.header1{
+	display: flex;
+	padding: 5px 100px;
+	height: 50px;
+	justify-content: space-between;
+	align-items: center;
+}
+.header1 ul{
+	display: flex;
+}
+.noidung1 img{
+	width: 100%;
+	height: 300px;
+}
+	
+.header1 li{
+	list-style-type: none;
+	padding: 0px 10px;
+}
+.header1 input{
+	width: 120px;
+	height: 30px;
+	text-align: center;
+	boder:none;
+}
+.header1 input:hover{
+	background-color: dodgerblue;
+	color: aliceblue;
+	border:0;
+}
+
+.service{
+	display: flex;
+	justify-content: space-between;
+	padding: 30px 100px;
+}
+.service div{
+	width: 30%;
+}
+.service img{
+	width: 100%;
+}
+.aboutus {
+	display: flex;
+	background-color: antiquewhite;
+	
+}
+.duoi{
+	display: flex;
+}
+.trai{
+	padding: 0px 80px 0px 0px;
+}
+

@@ -1,0 +1,21 @@
+nav {
+	height: :20px;
+	background: red;
+	display: flex;
+	align-items: center
+}
+ul,li {
+	display: inline
+}
+.baner {
+	background-image: url("./photo-1-16356544140731337831776.jpg");
+	height: 500px;
+	background-size: cover;
+	display: flex;
+	align-items: center
+
+}
+.text {
+	text-align: center;
+	width: 100%
+}
